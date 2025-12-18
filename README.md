@@ -8,9 +8,9 @@ Pemrograman Berorientasi Objek – Praktikum
 
 ## Identitas Mahasiswa
 
-* **Nama**  : ........................................
-* **NIM**   : ........................................
-* **Kelas** : ........................................
+* **Nama**  : Elvando Agustio Jhonny
+* **NIM**   : 2411102441056
+* **Kelas** : C
 
 ---
 
